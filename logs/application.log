@@ -1,0 +1,36 @@
+2013-07-29 21:17:16,645 - [INFO] - from play in main 
+Application started (Prod)
+
+2013-07-29 21:17:16,802 - [INFO] - from play in main 
+Listening for HTTP on /127.0.0.1:8888
+
+2013-07-29 21:17:19,804 - [DEBUG] - from application in play-akka.actor.default-dispatcher-3 
+Checking mime type for C:\Users\salei_000\activator-akka-spray\activator, found: application/x-shellscript
+
+2013-07-29 21:17:19,810 - [DEBUG] - from application in play-akka.actor.default-dispatcher-3 
+Checking mime type for C:\Users\salei_000\activator-akka-spray\activator-launch-0.2.6.jar, found: application/zip
+
+2013-07-29 21:17:19,821 - [DEBUG] - from application in play-akka.actor.default-dispatcher-3 
+Checking mime type for C:\Users\salei_000\activator-akka-spray\RUNNING_PID, found: application/octet-stream
+
+2013-07-29 21:17:20,221 - [INFO] - from application in New I/O worker #1 
+Connect request for app id: activator-akka-spray
+
+2013-07-29 21:17:20,278 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+WebSocket streams created
+
+2013-07-29 21:17:30,732 - [DEBUG] - from application in ForkJoinPool-3-worker-1 
+Sending app actor 19 source files
+
+2013-07-29 21:17:36,426 - [DEBUG] - from application in ForkJoinPool-3-worker-1 
+Sending app actor 19 source files
+
+2013-07-29 22:17:15,430 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12 
+Checking mime type for C:\Users\salei_000\activator-akka-spray\.project, found: application/octet-stream
+
+2013-07-30 00:27:52,919 - [INFO] - from application in Thread-8 
+onStop received closing down the app
+
+2013-07-30 00:27:52,920 - [WARN] - from application in Thread-8 
+AppManager onApplicationStop is disabled pending some refactoring so it works with FakeApplication in tests
+
